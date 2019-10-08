@@ -1,0 +1,3 @@
+i
+This is an example for my initial git commit
+
